@@ -1,0 +1,16 @@
+id: jakubkarafa-dev-firebase-emulator
+name: Firebase Emulator
+version: "1.0.0"
+tagline: Run Firebase locally on your network
+description: >
+  This app runs the Firebase Emulator Suite on your Umbrel device, including Firestore, Auth, and Functions. Great for local testing and development without any external Google servers.
+
+developer: Jakub Karafa
+website: https://firebase.google.com/docs/emulator-suite
+icon: https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png
+category: Development
+port: 4000
+path: /
+type: app
+repo: https://github.com/jakubkarafa-dev/firebase-emulator
+support: https://github.com/jakubkarafa-dev/firebase-emulator/issues
