@@ -7,7 +7,7 @@ description: >
 
 developer: Jakub Karafa
 website: https://firebase.google.com/docs/emulator-suite
-icon: https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png
+icon: https://firebase.google.com/downloads/brand-guidelines/SVG/logo-logomark.svg
 category: Development
 port: 4000
 path: /
