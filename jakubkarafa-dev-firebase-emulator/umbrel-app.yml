@@ -12,5 +12,5 @@ category: Development
 port: 4000
 path: /
 type: app
-repo: https://github.com/jakubkarafa-dev/firebase-emulator
-support: https://github.com/jakubkarafa-dev/firebase-emulator/issues
+repo: https://github.com/jakubkarafa-dev/jakubkarafa-dev-firebase-emulator
+support: https://github.com/jakubkarafa-dev/jakubkarafa-dev-firebase-emulator/issues
