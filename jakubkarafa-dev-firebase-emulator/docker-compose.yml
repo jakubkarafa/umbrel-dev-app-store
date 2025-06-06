@@ -9,7 +9,7 @@ services:
     ports:
       - "4000:4000"
       - "5001:5001"
-      - "8080:8080"
+      - "8180:8180"
       - "9099:9099"
     working_dir: /app
     command: ["firebase", "emulators:start", "--project", "local-project"]
