@@ -12,7 +12,7 @@ Since this is a **private repo**, you must use a GitHub token to access it.
 Paste this into the Umbrel App Store "Add Store" field:
 
 ```
-https://jakubkarafa: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@github.com/jakubkarafa/umbrel-dev-app-store.git
+https://<your-username>:<your-token>@github.com/jakubkarafa/umbrel-dev-app-store.git
 ```
 
 > 🔐 Replace `<your-token>` with your actual [GitHub token](https://github.com/settings/tokens) generated for read-only access.
